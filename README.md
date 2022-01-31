@@ -28,7 +28,8 @@ $ sudo apt-get upgrade
 $ sudo apt-get install scons git wget
 $ sudo apt-get install autoconf
 $ sudo apt-get install libtool
-# make the directory
+
+**make the directory**
 $ mkdir armnn-pi
 $ cd armnn-pi
 $ export BASEDIR=`pwd`
